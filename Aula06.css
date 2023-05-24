@@ -1,0 +1,58 @@
+.nav{
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.item{
+    margin-right: 10px;
+
+}
+
+nav a{
+    border-radius: 50px;
+    text-decoration: none;
+    background-color: rgb(42, 136, 165);
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+nav a:hover{
+    background-color: blue;
+
+}
+
+figure{
+    text-align: center;
+    border-style: 300px solid;
+   ;
+}
+
+h1{
+    text-align: center;
+    color: chocolate;
+    background-color: aquamarine;
+    padding: 30px;
+    margin-left: 100px;
+    margin-bottom: 0px;
+    border-style: 50px solid;
+    
+
+
+}
+body{
+    background-color: aquamarine; 
+}
+
+p{
+    text-align: calc(  100% -);
+    color: blue;
+}
+
+img{
+    border-color: blue;
+    width: 20%; float: right
+}
